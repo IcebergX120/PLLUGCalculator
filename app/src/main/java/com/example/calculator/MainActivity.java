@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         initView();
 
         checkNumericButton();
+
+	// Artur and Olya first comment;
     }
 
     private void initView() {
